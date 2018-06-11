@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JFinalHelloWorld:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JFinalHelloWorld_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JFinalHelloWorld/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JFinalHelloWorld" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jfinal-3.4-bin-with-src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
